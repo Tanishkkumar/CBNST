@@ -51,3 +51,21 @@ int main(){
     printf("root==%f total iterations::%d",x,--i);
     return 0;
 }
+
+/*
+enter the max iteration in the field
+17
+enter the expected value of a and b
+0 1
+
+valid
+
+correct
+iter  root::0::: root::0.816497
+iter  root::1::: root::0.741964
+iter  root::2::: root::0.757671
+iter  root::3::: root::0.754278
+iter  root::4::: root::0.755007
+iter  root::5::: root::0.754850
+iter final root::6:::final root::0.754884
+    */
